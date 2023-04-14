@@ -1,5 +1,5 @@
 # LAB-BASE_03-OOP_03
-***Лабораторные работы [2022-12-02] - [2023-03-01]***  
+***Лабораторные работы [2022-12-02] - [2023-04-10]***  
 + [Лабораторная работа 3](https://github.com/garbuzilia/LAB-BASE_03-OOP_03/releases/tag/LAB_03)  
 + [Лабораторная работа 4](https://github.com/garbuzilia/LAB-BASE_03-OOP_03/releases/tag/LAB_04)  
 + [Лабораторная работа 5](https://github.com/garbuzilia/LAB-BASE_03-OOP_03/releases/tag/LAB_05)  
