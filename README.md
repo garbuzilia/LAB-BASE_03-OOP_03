@@ -13,6 +13,11 @@
 + [Лабораторная работа ООП 1](https://github.com/garbuzilia/LAB-BASE_03-OOP_03/releases/tag/OOP_01)  
 + [Лабораторная работа ООП 2](https://github.com/garbuzilia/LAB-BASE_03-OOP_03/releases/tag/OOP_02)  
 + [Лабораторная работа ООП 3](https://github.com/garbuzilia/LAB-BASE_03-OOP_03/releases/tag/OOP_03)  
++ [Лабораторная работа ООП 4](https://github.com/garbuzilia/LAB-BASE_03-OOP_03/releases/tag/OOP_04)  
++ [Лабораторная работа ООП 5](https://github.com/garbuzilia/LAB-BASE_03-OOP_03/releases/tag/OOP_05)  
++ [Лабораторная работа ООП 6](https://github.com/garbuzilia/LAB-BASE_03-OOP_03/releases/tag/OOP_06)  
++ [Лабораторная работа ООП 7](https://github.com/garbuzilia/LAB-BASE_03-OOP_03/releases/tag/OOP_07)  
++ [Лабораторная работа ООП 8](https://github.com/garbuzilia/LAB-BASE_03-OOP_03/releases/tag/OOP_08)  
 ---
 + [Сортировки - Внешняя](https://github.com/garbuzilia/LAB-BASE_03-OOP_03/releases/tag/LAB_SORT_3)  
 + [Сортировки - Шелла и Хоара](https://github.com/garbuzilia/LAB-BASE_03-OOP_03/releases/tag/LAB_SORT_2)  
